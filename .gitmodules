@@ -1,11 +1,11 @@
 [submodule "Back-End"]
     path = Back-End
-    url = git@github.com:Esther1223/Back-End-2025Team1-weakscan.git
+    url = git@github.com:2025-NTNU-Software-Engineering-Team-1/Back-End-2025Team1-weakscan.git
 
 [submodule "new-front-end"]
     path = new-front-end
-    url = git@github.com:Esther1223/new-front-end-2025Team1-weakscan.git
+    url = git@github.com:2025-NTNU-Software-Engineering-Team-1/new-front-end-2025Team1-weakscan.git
 
 [submodule "Sandbox"]
     path = Sandbox
-    url = git@github.com:Esther1223/Sandbox-2025Team1-weakscan.git
+    url = git@github.com:2025-NTNU-Software-Engineering-Team-1/Sandbox-2025Team1-weakscan.git
